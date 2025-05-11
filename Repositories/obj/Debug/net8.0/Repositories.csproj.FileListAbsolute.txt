@@ -1,0 +1,12 @@
+/workspaces/MeetingRoomApp/Repositories/bin/Debug/net8.0/Repositories.deps.json
+/workspaces/MeetingRoomApp/Repositories/bin/Debug/net8.0/Repositories.dll
+/workspaces/MeetingRoomApp/Repositories/bin/Debug/net8.0/Repositories.pdb
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfoInputs.cache
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfo.cs
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/Repositories.csproj.CoreCompileInputs.cache
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/Repositories.sourcelink.json
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/Repositories.dll
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/refint/Repositories.dll
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/Repositories.pdb
+/workspaces/MeetingRoomApp/Repositories/obj/Debug/net8.0/ref/Repositories.dll
